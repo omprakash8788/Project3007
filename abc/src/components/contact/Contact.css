@@ -1,0 +1,62 @@
+.ct{
+    background-color: rgb(27, 27, 33);
+    height: 1000px;
+}
+.ct1{
+    color: aliceblue;
+    margin-left: 190px;
+}
+.ct2{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    margin-left:100px ;
+}
+.ct2 h1{
+    font-size: 33px;
+}
+.ct3{
+    margin-top: 60px;
+}
+.ct4{
+    display: flex;
+    /* border: 1px solid red; */
+    height: 300px;
+    width: 90%;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 50px;
+}
+.ct4 div{
+    /* border: 1px solid red; */
+    height: 290px;
+    width: 27%;
+    color: white;
+
+}
+/* MessageBox.css */
+.message-box {
+    text-align: center;
+    background-color: #151515;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* Adjust the maximum width as needed */
+    margin: auto;
+    margin-top: 50px; /* Adjust the top margin as needed */
+  }
+  
+  .message-box h1 {
+    color: white;
+  }
+  
+  .message-box p {
+    color: #666;
+  }
+  
+  .message-box hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+  }
+  

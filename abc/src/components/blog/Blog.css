@@ -1,0 +1,83 @@
+.blog{
+    background-color:rgb(9, 9, 15);
+    height: auto;
+}
+.bt{
+    text-align: center;
+    color: white;
+}
+.bt h4{
+    color: palevioletred;
+}
+.bt h1{
+    font-size: 40px;
+}
+.bt1{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    height: auto;
+    width: 90%;
+    margin: auto;
+    color: white;
+}
+.bt1 div{
+    border: 1px solid red;
+    height: auto;
+    width: 43%;
+
+}
+.bt1 div img{
+    width: 100%;
+    border-radius: 20px;
+}
+.bt2{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    height: 100px;
+    width: 90%;
+    margin: auto;
+    color: white;
+    margin-top: 30px;
+    
+}
+.bt2 div{
+    border: 1px solid red;
+    height: auto;
+    width: 43%;
+}
+.bt3{
+    display: flex;
+}
+
+.bt2 div img{
+    width: 10%;
+    border-radius: 50%;
+}
+.bt4{
+    margin-left: 10px;
+}
+.bt5{
+    margin-top: 120px;
+    color: white;
+    text-align: center;
+}
+.bt6{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    height: auto;
+    width: 90%;
+    margin: auto;
+    color: white;
+    margin-top: 30px; 
+}
+.bt6 div{
+    border: 1px solid red;
+    height: auto;
+    width: 29%;
+}
+.bt6 div img{
+    width: 100%;
+}
